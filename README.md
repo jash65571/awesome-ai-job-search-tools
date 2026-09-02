@@ -54,6 +54,7 @@ Free tools: https://www.tryapplynow.com/tools
 | [Teal](https://www.tealhq.com) | Job tracking + resume tools | Yes | Resume builder, tracker, Chrome extension |
 | [Huntr](https://huntr.co) | Job tracking | Yes | Visual job board, resume tools, tracker |
 | [Jobscan](https://www.jobscan.co) | ATS resume matching | Limited | ATS match score, keyword analysis |
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker + AI resume builder | Yes | Free ATS checks (3/day no account), AI resume builder; [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) (738 employers, 704 portal-verified, Workday 37.9%) |
 | [Simplify](https://simplify.jobs) | Autofill + tracking | Yes | Chrome extension, autofill, tracker |
 | [Careerflow](https://www.careerflow.ai) | LinkedIn + workflow tools | Yes | LinkedIn optimizer, resume tools, tracker |
 | [Rezi](https://www.rezi.ai) | AI resume builder | Limited | Resume builder, ATS checks |

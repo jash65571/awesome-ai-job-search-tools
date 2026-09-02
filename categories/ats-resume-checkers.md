@@ -16,6 +16,7 @@ Useful when you want to know:
 | TryApplyNow ATS Score Checker | https://www.tryapplynow.com/tools/ats-score-checker | ATS scoring | Free | Part of an end-to-end job search workflow |
 | TryApplyNow Resume Keyword Checker | https://www.tryapplynow.com/tools/resume-keyword-checker | Keyword gap analysis | Free | Pairs with the ATS Score Checker |
 | Jobscan | https://www.jobscan.co | ATS match reports | Freemium | Established ATS scanner; paid for unlimited scans |
+| ResumeAI | https://withresumeai.com/ | Free ATS checks + AI resume builder | Free tier | 3 ATS checks/day with no account; [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) (738/704, Workday 37.9%) |
 | Resume Worded | https://resumeworded.com | Resume scoring | Freemium | Also checks LinkedIn profile |
 | Rezi | https://www.rezi.ai | Building + scoring | Freemium | AI resume builder with ATS checks built in |
 | Careerflow | https://www.careerflow.ai | Workflow + resume tools | Freemium | LinkedIn + resume tools combined |
