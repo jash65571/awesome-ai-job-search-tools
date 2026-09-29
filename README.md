@@ -68,6 +68,7 @@ Free tools: https://www.tryapplynow.com/tools
 | [Apollo](https://www.apollo.io) | Contact database | Yes | Contacts, sequences (sales-leaning) |
 | [RocketReach](https://rocketreach.co) | Contact lookup | Limited | Email + phone lookup |
 | [Final Round AI](https://www.finalroundai.com) | Interview coaching | Limited | Real-time interview help |
+| [Luna Interview](https://lunainterview.xyz/) | Interview prep | Trial | Chrome side-panel copilot; answers from your own notes during Meet/Zoom |
 | [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) | Interview practice | Yes | Free practice from Google |
 | [Pramp](https://www.pramp.com) | Peer mock interviews | Yes | Free peer-to-peer practice |
 | [Levels.fyi](https://www.levels.fyi) | Tech salary data | Yes | Compensation by level/company |
