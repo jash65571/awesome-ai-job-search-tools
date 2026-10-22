@@ -53,6 +53,7 @@ Free tools: https://www.tryapplynow.com/tools
 | [Jobright](https://jobright.ai) | AI job search assistant | Yes | Job matching, resume help, workflow |
 | [Teal](https://www.tealhq.com) | Job tracking + resume tools | Yes | Resume builder, tracker, Chrome extension |
 | [Huntr](https://huntr.co) | Job tracking | Yes | Visual job board, resume tools, tracker |
+| [JobEmerge](https://www.jobemerge.work) | Job fit, resume building, interview practice, application tracking | Yes | Job-fit analysis, resume translation and editing, cover letters, text-based mock interviews, tracker |
 | [Jobscan](https://www.jobscan.co) | ATS resume matching | Limited | ATS match score, keyword analysis |
 | [Simplify](https://simplify.jobs) | Autofill + tracking | Yes | Chrome extension, autofill, tracker |
 | [Careerflow](https://www.careerflow.ai) | LinkedIn + workflow tools | Yes | LinkedIn optimizer, resume tools, tracker |
