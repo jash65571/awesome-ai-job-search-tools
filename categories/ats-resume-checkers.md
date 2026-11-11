@@ -19,6 +19,7 @@ Useful when you want to know:
 | Resume Worded | https://resumeworded.com | Resume scoring | Freemium | Also checks LinkedIn profile |
 | Rezi | https://www.rezi.ai | Building + scoring | Freemium | AI resume builder with ATS checks built in |
 | Careerflow | https://www.careerflow.ai | Workflow + resume tools | Freemium | LinkedIn + resume tools combined |
+| CheckATS | https://checkats.app/ | Resume formatting and keyword gaps | Freemium | PDF, DOCX, and TXT checks run in the browser. |
 | Enhancv | https://enhancv.com | Resume design + score | Freemium | Strong templates plus a content checker |
 
 ## How to use an ATS checker well
