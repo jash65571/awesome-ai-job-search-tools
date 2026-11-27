@@ -73,6 +73,7 @@ Free tools: https://www.tryapplynow.com/tools
 | [Levels.fyi](https://www.levels.fyi) | Tech salary data | Yes | Compensation by level/company |
 | [Glassdoor](https://www.glassdoor.com) | Reviews + salary | Yes | Company reviews, salary data |
 | [Payscale](https://www.payscale.com) | Salary research | Yes | Salary ranges by role/location |
+| [Elk Jobs](https://elkjobs.com) | US jobs direct from employers + fit scoring | Yes | Daily jobs from company career pages, match score with skill gaps, resume tailoring (EN/ES) |
 
 ## How to choose the right tool
 
