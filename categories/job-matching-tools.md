@@ -21,6 +21,7 @@ A good match should help you decide:
 | LinkedIn Jobs | https://www.linkedin.com/jobs/ | Largest job network | Free | The default many job seekers start with |
 | Indeed | https://www.indeed.com | Broad job aggregator | Free | High volume, variable quality |
 | Wellfound (AngelList Talent) | https://wellfound.com | Startup roles | Free | Best for early-stage company jobs |
+| Elk Jobs | https://elkjobs.com | Job fit scoring on employer-direct US jobs | Freemium | Lists only postings from company career pages; shows missing skills |
 
 ## Good job-matching signals
 
